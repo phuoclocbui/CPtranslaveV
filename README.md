@@ -2,6 +2,7 @@
 ## Bản dịch cộng đồng được đóng góp bởi nhiều người
 > Ngày bắt đầu dịch: 01/01/2021
 > Tiến độ hiện tại: Clint (Tú: 03/01/2021)
+> Liên hệ với mình qua facebook nếu muốn tham gia vào quá trình phiên dịch
 > Đối với những bạn kéo file về dịch thì phải thông báo cho mình, dịch từ trên xuống dưới, không làm trùng với phần đã được phân công phía trên, không được làm kiểu thích câu nào làm câu đó. Đã dịch thì phải dịch cho hết một nhân vật (khoảng 100 câu thoại).
 ---
 > Vérì ìmpóttần: Toi khẩn thiết cầu mong có bạn nữ nào đó giúp toi dịch thoại của các nhân vật nam có thể cưới. Lý do là gì thì bạn xem ở cuối trang nhé D:
@@ -29,12 +30,13 @@ Là một người chơi hệ skip, hằng ngày chăm chỉ nuôi cá rồi tr�
 Nếu các bạn có đóng góp về phần dịch thì vào [post này](https://www.facebook.com/groups/stardewvalleyviethoa/permalink/1618901244976666/) chấm mút làm sao đấy để liên hệ với mình.
 ## MỌI ĐÓNG GÓP Ý KIẾN CÁC BẠN VUI LÒNG CHỤP TOÀN MÀN HÌNH NGAY TẠI ĐOẠN THOẠI ĐÓ VÌ ĐỒNG HỒ BÊN GÓC TRÊN CŨNG CHỨA KEYWORD ĐỂ CHECK NỘI DUNG VÀ SAU ĐÓ GỬI CHO MÌNH. SAU ĐÓ ĐƯA RA Ý KIẾN ĐÓNG GÓP, MỌI SỬA ĐỔI SẼ ĐƯỢC HIỂN THỊ TRONG FILE content.json Ở ĐÂY NÊN CÁC BẠN KHÔNG PHẢI LO VIỆC Ý KIẾN SỬA ĐỔI CỦA BẠN BỊ CƯỚP VÀ MÌNH SẼ CHO TÊN CÙNG NỘI DUNG CỦA BẠN VÀO PHẦN ĐÓNG GÓP CỦA CỘNG ĐỒNG BÊN DƯỚI.
 #### Thành viên đang dịch hiện tại:
-- Tú (phần thoại tiếng việt)
+- [Tú](https://www.facebook.com/H.A.C.2K1/) (phần thoại tiếng việt)
 - Minh (giao diện tiếng việt)
 
 #### Đóng góp của cộng đồng
 - Chưa có
 
+# MANAGER HIỆN TẠI LÀ [TÚ](https://www.facebook.com/H.A.C.2K1/)
 > Tâm sự bên lề: <br>
 > - Ông nào có thắc mắc sao tên file của toi sai chính tả thì là do toi cố ý đấy :D.<br>
 > - Khi toi dịch thoại của mấy nhân vật nam có thể cưới ấy, cảm giác bọn nó đang tán tỉnh toi vậy mấy ông ạ. Như là nó sắp duck dick toi đến nơi vậy, sang chấn tâm lý vcl.<br>
