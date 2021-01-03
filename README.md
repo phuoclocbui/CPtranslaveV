@@ -18,6 +18,7 @@ Là một người chơi hệ skip, hằng ngày chăm chỉ nuôi cá rồi tr�
     - Abigail
     - Alex
     - Caroline
+    - Clint
 2. Hội thoại sự kiện:
     - chưa dịch sự kiện
 ## Để sử dụng bản dịch thì các bạn cần có:
