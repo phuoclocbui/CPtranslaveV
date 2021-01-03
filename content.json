@@ -3053,6 +3053,16 @@
       "Action": "Load",
       "Target": "LooseSprites/font_colored",
       "FromFile": "assets/font_colored.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Minigames/Intro",
+      "FromFile": "assets/Intro.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Minigames/TitleButtons",
+      "FromFile": "assets/TitleButtons.png"
     }
   ]
 }
