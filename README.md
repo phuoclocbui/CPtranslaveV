@@ -1,6 +1,8 @@
 # CPtranslaveV
 ## Bản dịch cộng đồng được đóng góp bởi nhiều người
 > Ngày bắt đầu dịch: 01/01/2021
+> Tiến độ hiện tại: Clint (Tú: 03/01/2021)
+> Đối với những bạn kéo file về dịch thì phải thông báo cho mình, dịch từ trên xuống dưới, không làm trùng với phần đã được phân công phía trên, không được làm kiểu thích câu nào làm câu đó. Đã dịch thì phải dịch cho hết một nhân vật (khoảng 100 câu thoại).
 ---
 > Vérì ìmpóttần: Toi khẩn thiết cầu mong có bạn nữ nào đó giúp toi dịch thoại của các nhân vật nam có thể cưới. Lý do là gì thì bạn xem ở cuối trang nhé D:
  
