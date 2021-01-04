@@ -1,7 +1,10 @@
 # CPtranslaveV
-## Bản dịch cộng đồng được đóng góp bởi nhiều người(số lượng hiện tại: 1)
+## Bản dịch cộng đồng được đóng góp bởi nhiều người(số lượng hiện tại: 22)
 > Ngày bắt đầu dịch: 01/01/2021<br>
-> Tiến độ hiện tại: Demetrius (Tú: 04/01/2021 | chưa hoàn thành)<br>
+> Phân công hiện tại:
+>   - Demetrius (Tú: 04/01/2021 | chưa hoàn thành)
+>   - Dwarf (Hà: 04/01/2021 | chưa hoàn thành)
+
 > Liên hệ với mình qua [facebook](https://www.facebook.com/H.A.C.2K1/) nếu muốn [tham gia](https://www.facebook.com/H.A.C.2K1/) vào quá trình phiên dịch<br>
 > Đối với những bạn kéo file về dịch thì:
 >   - Phải thông báo cho [mình](https://www.facebook.com/H.A.C.2K1/)
