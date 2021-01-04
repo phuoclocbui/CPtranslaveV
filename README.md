@@ -1,11 +1,12 @@
 # CPtranslaveV
-## Bản dịch cộng đồng được đóng góp bởi nhiều người(số lượng hiện tại: 22)
+## Bản dịch cộng đồng được đóng góp bởi nhiều người(số lượng hiện tại: 2)
 > Ngày bắt đầu dịch: 01/01/2021<br>
 > Phân công hiện tại:
 >   - Demetrius (Tú: 04/01/2021 | chưa hoàn thành)
 >   - Dwarf (Hà: 04/01/2021 | chưa hoàn thành)
 
 > Liên hệ với mình qua [facebook](https://www.facebook.com/H.A.C.2K1/) nếu muốn [tham gia](https://www.facebook.com/H.A.C.2K1/) vào quá trình phiên dịch<br>
+> Phải sử dụng git. Nếu chưa biết sử dụng git thì mình sẽ hướng dẫn để làm việc nhóm nhanh hơn.<br>
 > Đối với những bạn kéo file về dịch thì:
 >   - Phải thông báo cho [mình](https://www.facebook.com/H.A.C.2K1/)
 >   - Dịch từ trên xuống dưới
@@ -39,6 +40,7 @@ Là một người chơi hệ skip, hằng ngày mình chăm chỉ nuôi cá r�
 MỌI Ý KIẾN ĐÓNG GÓP CÁC BẠN VUI LÒNG CHỤP TOÀN MÀN HÌNH NGAY TẠI ĐOẠN THOẠI ĐÓ VÌ ĐỒNG HỒ BÊN GÓC TRÊN CŨNG CHỨA KEYWORD ĐỂ CHECK NỘI DUNG VÀ SAU ĐÓ GỬI CHO MÌNH. SAU ĐÓ ĐƯA RA Ý KIẾN ĐÓNG GÓP, MỌI SỬA ĐỔI SẼ ĐƯỢC HIỂN THỊ TRONG FILE content.json Ở ĐÂY NÊN CÁC BẠN KHÔNG PHẢI LO VIỆC Ý KIẾN SỬA ĐỔI CỦA BẠN BỊ CƯỚP VÀ MÌNH SẼ CHO TÊN CÙNG NỘI DUNG CỦA BẠN VÀO PHẦN ĐÓNG GÓP CỦA CỘNG ĐỒNG BÊN DƯỚI.
 ## Thành viên đang dịch hiện tại:
 - [Tú](https://www.facebook.com/H.A.C.2K1/) (phần thoại tiếng việt)
+- [Hà]() (phần thoại tiếng việt)
 
 ## Đóng góp của cộng đồng
 - Minh (giao diện chính tiếng việt)
