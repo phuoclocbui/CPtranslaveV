@@ -330,7 +330,7 @@
         "Sun": "It's good to take a break from work every now and then.#$e#I guess that's kind of difficult when you live on a farm, though.#$e#Hey, at least in the winter you don't have to worry about crops.",
         "Fri4": "Robin has a hot temper. It's better to stay on her good side.#$e#...now if I could only quantify her mood levels, perhaps I could model the fluctuations using a sinusoidal curve...$u",
         "Wed6": "Hi @! How are you doing today?#$e#I wish I could make your farming job easier somehow.",
-        "Event_tomato1": "Really? I figured a farmer would know the correct answer...$s",
+        "Event_tomato1": "Thật sao? I figured a farmer would know the correct answer...$s",
         "Event_tomato2": "See? @ agrees with me.",
         "Event_Lab_Silence": "Well, we'd better titrate this solution before it crystallizes on us.",
         "Event_Lab_Rat": "*sigh*... %fork$4",
