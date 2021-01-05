@@ -7,7 +7,7 @@
 >   - Caroline      (Tú: 02/01/2021     |   Hoàn thành)
 >   - Clint         (Tú: 03/01/2021     |   Hoàn thành)
 >   - Demetrius     (Tú: 04/01/2021     |   Hoàn thành)
->   - Dwarf         (Hà: 04/01/2021     |   Chưa hoàn thành)
+>   - Dwarf         (Hà: 04/01/2021     |   Hoàn thành)
 >   - Elliott       (Hà: 05/01/2021     |   Chưa hoàn thành)
 >   - Emily         (Tú: 05/01/2021     |   Chưa hoàn thành)
 
@@ -36,6 +36,7 @@ Là một người chơi hệ skip, hằng ngày mình chăm chỉ nuôi cá r�
     - Caroline
     - Clint
     - Demetrius
+    - Dwarf
 - Hội thoại sự kiện:
     - chưa dịch sự kiện
 ## Để sử dụng bản dịch thì các bạn cần có:
