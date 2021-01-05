@@ -1,14 +1,14 @@
 {
-  "Introduction": "Hey, you're pretty good at mining, for a human.",
-  "Mon": "I got all this stuff from the surface. I just take it from your people during the night.#$e#Hmm? What is this concept you call \"private property\"?",
-  "Tue": "Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin.#$e#...And a ramekin of cave carrot brulee to sweeten the night.#$e#What?",
-  "Wed": "Hey, wanna buy something?",
-  "Wed_6": "Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that.#$e#But I wonder where it came from? And where did it all go? I guess some questions will never be answered...",
-  "Thu_4": "I feel most comfortable underground.#$e#The deeper underground the better.",
-  "Fri": "You've never seen a dwarf before, have you?",
-  "Sat_8": "The mines can be a treacherous place. Be careful, friend.",
-  "Sat": "It's dangerous in the mines. Why don't you buy a few things from my shop to ensure your safety?",
-  "Sun": "One day you'll have to tell me about this beverage you call \"milk\".",
-  "Thu": "You're not a spy sent by the Shadow People, are you?#$e#I'm keeping my eye on you.",
-  "Fri_2": "Most humans fear the unknown... that's why I've hidden my shop here.#$e#Your mining skills prove you're trustworthy."
+  "Introduction": "Này, bạn khá giỏi trong việc đào mỏ đấy, dù chỉ là một con người.",
+  "Mon": "Tôi lấy những thứ này ở trên mặt đất. Tôi lấy chúng từ dân làng vào ban đêm.#$e#Loài người các bạn gọi những thứ này là gì ấy nhỉ? \"Tài sản cá nhân\"?",
+  "Tue": "Ah... cave carrot hầm, cave carrot rang, súp cave carrot và cave carrots au gratin.#$e#...And a ramekin of cave carrot brulee to sweeten the night.#$e#Gì vậy?","note_01":"chưa dịch",
+  "Wed": "Nè bạn, muốn mua cái gì không?",
+  "Wed_6": "Rất lâu rồi, giống loài của tôi nắm giữ bí mật của công nghệ hiện đại. Những bằng chứng khảo cổ học đã chứng minh điều đó.#$e#Nhưng tôi tự hỏi nó đến từ đâu? Và tất cả chúng đã biến mất đi đâu? Tôi đoán là có những câu hỏi sẽ không bao giờ được trả lời...",
+  "Thu_4": "Tôi thấy khá thoải mái khi ở dưới lòng đất.#$e# Ở càng sâu càng tốt.",
+  "Fri": "Bạn chưa từng thấy dwarf bao giờ phải không?",
+  "Sat_8": "Hầm mỏ có thể là một nơi rất xảo quyệt. Hãy cẩn thận nhé, bạn của tôi.","note_02":"xảo quyệt",
+  "Sat": "Trong hầm mỏ nguy hiểm lắm. Sao bạn không mua vài thứ từ cửa hàng của tôi cho an tâm?",
+  "Sun": "Một ngày nào đó bạn phải kể cho tôi nghe về thứ đồ uống được gọi là \"sữa\" đấy.",
+  "Thu": "Bạn không phải là gián điệp được cử đến bởi Dân Bóng Tối phải không?#$e#Tôi luôn để mắt đến bạn đấy.",
+  "Fri_2": "Hầu hết con người sợ những điều họ không biết... vì thế nên tôi mới giấu cửa hàng của mình ở đây.#$e#Kỹ năng đào mỏ của bạn chứng tỏ bạn rất đáng tin."
 }
