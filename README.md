@@ -33,6 +33,7 @@ Là một người chơi hệ skip, hằng ngày mình chăm chỉ nuôi cá r�
     - Alex
     - Caroline
     - Clint
+    - Demetrius
 - Hội thoại sự kiện:
     - chưa dịch sự kiện
 ## Để sử dụng bản dịch thì các bạn cần có:
