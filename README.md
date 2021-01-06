@@ -1,15 +1,18 @@
 # CPtranslaveV
 ## Bản dịch cộng đồng được đóng góp bởi nhiều người(số lượng hiện tại: 3)
 > Ngày bắt đầu dịch: 01/01/2021<br>
-> Phân công hiện tại:
->   - Abigail       (Tú: 01/01/2021     |   Hoàn thành)
->   - Alex          (Tú: 02/01/2021     |   Hoàn thành)
->   - Caroline      (Tú: 02/01/2021     |   Hoàn thành)
->   - Clint         (Tú: 03/01/2021     |   Hoàn thành)
->   - Demetrius     (Tú: 04/01/2021     |   Hoàn thành)
->   - Dwarf         (Hà: 04/01/2021     |   Hoàn thành)
->   - Elliott       (Hà: 05/01/2021     |   Chưa hoàn thành)
->   - Emily         (Tú: 05/01/2021     |   Chưa hoàn thành)
+
+|Công việc|Người thực hiện|Trạng thái|
+|:---:|:---:|:---:|
+|Giao diện đồ họa việt hóa|Minh|Chưa hoàn thành|
+|Thoại Abigail|Tú|Hoàn thành|
+|Thoại Alex|Tú|Hoàn thành|
+|Thoại Caroline|Tú|Hoàn thành|
+|Thoại Clint|Tú|Hoàn thành|
+|Thoại Demetrius|Tú|Hoàn thành|
+|Thoại Dwarf|Hà|Hoàn thành|
+|Thoại Elliott|Hà|Chưa hoàn thành|
+|Thoại Emily|Tú|Chưa hoàn thành|
 
 > Liên hệ với mình qua [facebook](https://www.facebook.com/H.A.C.2K1/) nếu muốn [tham gia](https://www.facebook.com/H.A.C.2K1/) vào quá trình phiên dịch<br>
 > Phải sử dụng git. Nếu chưa biết sử dụng git thì mình sẽ hướng dẫn để làm việc nhóm nhanh hơn.<br>
