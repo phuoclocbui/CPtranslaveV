@@ -13,6 +13,9 @@
 |Thoại Dwarf|Hà|Hoàn thành|
 |Thoại Elliott|Hà|Chưa hoàn thành|
 |Thoại Emily|Tú|Chưa hoàn thành|
+|Thoại Evelyn|Hà|Chưa hoàn thành|
+|Thoại George|Hà|Chưa hoàn thành|
+Thoại Gil|Hà|Chưa hoàn thành|
 
 > Liên hệ với mình qua [facebook](https://www.facebook.com/H.A.C.2K1/) nếu muốn [tham gia](https://www.facebook.com/H.A.C.2K1/) vào quá trình phiên dịch<br>
 > Phải sử dụng git. Nếu chưa biết sử dụng git thì mình sẽ hướng dẫn để làm việc nhóm nhanh hơn.<br>
