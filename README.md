@@ -11,9 +11,9 @@
 |Thoại Clint|Tú|Hoàn thành|
 |Thoại Demetrius|Tú|Hoàn thành|
 |Thoại Dwarf|Hà|Hoàn thành|
-|Thoại Elliott|Hà|Chưa hoàn thành|
+|Thoại Elliott|Hà|Hoàn thành|
 |Thoại Emily|Tú|Chưa hoàn thành|
-|Thoại Evelyn|Hà|Chưa hoàn thành|
+|Thoại Evelyn|Hà|Hoàn thành|
 |Thoại George|Hà|Chưa hoàn thành|
 Thoại Gil|Hà|Chưa hoàn thành|
 
