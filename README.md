@@ -17,7 +17,7 @@
 |Thoại George|Hà|<span style="color:red">Chưa hoàn thành</span>|
 Thoại Gil|Hà|<span style="color:red">Chưa hoàn thành</span>|
 
-> Liên hệ với mình qua [facebook](https://www.facebook.com/H.A.C.2K1/) nếu muốn [tham gia](https://www.facebook.com/H.A.C.2K1/) vào quá trình phiên dịch<br>
+> Liên hệ với mình qua [facebook](https://www.facebook.com/H.A.C.2K1/) nếu muốn tham gia vào quá trình phiên dịch<br>
 > Phải sử dụng git. Nếu chưa biết sử dụng git thì mình sẽ hướng dẫn để làm việc nhóm nhanh hơn.<br>
 > Đối với những bạn kéo file về dịch thì:
 >   - Phải thông báo cho [mình](https://www.facebook.com/H.A.C.2K1/)
@@ -43,6 +43,8 @@ Là một người chơi hệ skip, hằng ngày mình chăm chỉ nuôi cá r�
     - Clint
     - Demetrius
     - Dwarf
+    - Elliott
+    - Evelyn
 - Hội thoại sự kiện:
     - chưa dịch sự kiện
 ## Để sử dụng bản dịch thì các bạn cần có:
