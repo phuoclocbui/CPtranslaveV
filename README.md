@@ -4,18 +4,18 @@
 
 |Công việc|Người thực hiện|Trạng thái|
 |:---:|:---:|:---:|
-|Giao diện đồ họa việt hóa|Minh|Chưa hoàn thành|
-|Thoại Abigail|Tú|Hoàn thành|
-|Thoại Alex|Tú|Hoàn thành|
-|Thoại Caroline|Tú|Hoàn thành|
-|Thoại Clint|Tú|Hoàn thành|
-|Thoại Demetrius|Tú|Hoàn thành|
-|Thoại Dwarf|Hà|Hoàn thành|
-|Thoại Elliott|Hà|Hoàn thành|
-|Thoại Emily|Tú|Chưa hoàn thành|
-|Thoại Evelyn|Hà|Hoàn thành|
-|Thoại George|Hà|Chưa hoàn thành|
-Thoại Gil|Hà|Chưa hoàn thành|
+|Giao diện đồ họa việt hóa|Minh|<span style="color:red">Chưa hoàn thành</span>|
+|Thoại Abigail|Tú|<span style="color:green">Hoàn thành</span>|
+|Thoại Alex|Tú|<span style="color:green">Hoàn thành</span>|
+|Thoại Caroline|Tú|<span style="color:green">Hoàn thành</span>|
+|Thoại Clint|Tú|<span style="color:green">Hoàn thành</span>|
+|Thoại Demetrius|Tú|<span style="color:green">Hoàn thành</span>|
+|Thoại Dwarf|Hà|<span style="color:green">Hoàn thành</span>|
+|Thoại Elliott|Hà|<span style="color:green">Hoàn thành</span>|
+|Thoại Emily|Tú|<span style="color:red">Chưa hoàn thành</span>|
+|Thoại Evelyn|Hà|<span style="color:green">Hoàn thành</span>|
+|Thoại George|Hà|<span style="color:red">Chưa hoàn thành</span>|
+Thoại Gil|Hà|<span style="color:red">Chưa hoàn thành</span>|
 
 > Liên hệ với mình qua [facebook](https://www.facebook.com/H.A.C.2K1/) nếu muốn [tham gia](https://www.facebook.com/H.A.C.2K1/) vào quá trình phiên dịch<br>
 > Phải sử dụng git. Nếu chưa biết sử dụng git thì mình sẽ hướng dẫn để làm việc nhóm nhanh hơn.<br>
