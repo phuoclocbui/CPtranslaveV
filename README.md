@@ -14,8 +14,8 @@
 |Thoại Elliott|Hà|<span style="color:green">Hoàn thành</span>|
 |Thoại Emily|Tú|<span style="color:red">Hoàn thành</span>|
 |Thoại Evelyn|Hà|<span style="color:green">Hoàn thành</span>|
-|Thoại George|Hà|<span style="color:red">Chưa hoàn thành</span>|
-Thoại Gil|Hà|<span style="color:red">Chưa hoàn thành</span>|
+|Thoại George|Hà|<span style="color:green">Hoàn thành</span>|
+Thoại Gil|Hà|<span style="color:green">Hoàn thành</span>|
 
 > Liên hệ với mình qua [facebook](https://www.facebook.com/H.A.C.2K1/) nếu muốn tham gia vào quá trình phiên dịch<br>
 > Phải sử dụng git. Nếu chưa biết sử dụng git thì mình sẽ hướng dẫn để làm việc nhóm nhanh hơn.<br>
@@ -46,6 +46,8 @@ Là một người chơi hệ skip, hằng ngày mình chăm chỉ nuôi cá r�
     - Elliott
     - Emily
     - Evelyn
+    - George
+    - Gil
 - Hội thoại sự kiện:
     - chưa dịch sự kiện
 ## Để sử dụng bản dịch thì các bạn cần có:
