@@ -12,7 +12,7 @@
 |Thoại Demetrius|Tú|<span style="color:green">Hoàn thành</span>|
 |Thoại Dwarf|Hà|<span style="color:green">Hoàn thành</span>|
 |Thoại Elliott|Hà|<span style="color:green">Hoàn thành</span>|
-|Thoại Emily|Tú|<span style="color:red">Chưa hoàn thành</span>|
+|Thoại Emily|Tú|<span style="color:red">Hoàn thành</span>|
 |Thoại Evelyn|Hà|<span style="color:green">Hoàn thành</span>|
 |Thoại George|Hà|<span style="color:red">Chưa hoàn thành</span>|
 Thoại Gil|Hà|<span style="color:red">Chưa hoàn thành</span>|
@@ -44,6 +44,7 @@ Là một người chơi hệ skip, hằng ngày mình chăm chỉ nuôi cá r�
     - Demetrius
     - Dwarf
     - Elliott
+    - Emily
     - Evelyn
 - Hội thoại sự kiện:
     - chưa dịch sự kiện
