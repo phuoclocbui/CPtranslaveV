@@ -52,7 +52,7 @@ Là một người chơi hệ skip, hằng ngày mình chăm chỉ nuôi cá r�
 
 - Hội thoại thường ngày(Loại mà các bạn chạy quanh xóm, chạm mặt rồi dùng mồm để tăng tí hảo cảm ấy):
   - Abigail
-  - Alex
+  - Alexx
   - Caroline
   - Clint
   - Demetrius
